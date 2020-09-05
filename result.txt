@@ -1,0 +1,550 @@
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-27 18:23:22.832285
+Test Commit ID: eaf64dd1c662a1508665c5cb314d4963d53e4b28
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 11403264 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 5056256 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 50.4 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 101 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 3801088 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 5584 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-28 18:01:44.127219
+Test Commit ID: 677cb5b63ef6aa135a0b31c54776d633bf687afd
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 4136960 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 7397376 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 51.1 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 57.1 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 7548928 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 8528 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-29 18:00:02.004018
+Test Commit ID: 71ce2a515a9fead8125b6f11c3c0bdfd8d8a0449
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 16936960 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 40960 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 4170112 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 40.7 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 162 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 9781248 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 5584 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-29 19:57:16.599284
+Test Commit ID: eefcb59822198fcfb49ddc35347afbf909be25ff
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 4988928 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 40960 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 6967296 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 50.7 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 106 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 3112960 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 4096 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-30 19:50:20.523565
+Test Commit ID: d2e5addd62b8c0a0b7251de0cb9d9ea093aa0726
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 7168000 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 6589632 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 248 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 156 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 3006464 bytes. The file does not match.
+-0	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+50/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-01 20:10:09.822783
+Test Commit ID: 7a710f2f1af45a53bb3337c1581b9517f92e7eb8
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 3231744 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 184320 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 3719168 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 50.8 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 89.4 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 5435392 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 8528 of 10000 bytes were written after 10s.
+-40	Late Penalty: Last commit happens 20 hour(s) after due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-02 19:52:33.659922
+Test Commit ID: 8803bcf6f6651f82e9f37a6b611a0b36bace2522
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 4730880 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 7516160 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 41.0 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 40.8 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 3022848 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 7056 of 10000 bytes were written after 10s.
+-86	Late Penalty: Last commit happens 43 hour(s) after due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-03 20:24:45.779140
+Test Commit ID: 0d92d2268b31d62649dc654140e477453bfa183b
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 5660672 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 40960 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 7733248 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 253 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 110 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 2727936 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 4096 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-03 20:24:45.779140
+Test Commit ID: 0d92d2268b31d62649dc654140e477453bfa183b
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 4874240 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 6508544 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 40.7 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 152 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 2895872 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 8528 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-05 18:02:24.309648
+Test Commit ID: 33a24980de4f9b2113f45398c6562a81871f49eb
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 7471104 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 626688 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 40960 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 8052736 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 40.9 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 107 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 2973696 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 7056 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-05 21:22:56.730611
+Test Commit ID: 989f0afe5975155d9553b022f8357daed33ec88b
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 5574656 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 40960 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 40960 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 2012160 bytes.)
+-10	Test Case 7: Program exceeded max allowed time.
+-10	Test Case 8: Program exceeded max allowed time.
+-10	Test Case 9: Competing with TCP failed: received file has 2592768 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 8528 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+20/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-06 20:22:04.800764
+Test Commit ID: bae1a724d1e834ac5b5ec91c85366118d6edad03
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 6695552 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 40960 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 1953792 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 50.4 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 51.8 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 2871296 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 4096 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-07 20:44:04.467265
+Test Commit ID: 94048bf828d3c3de7d5c4cb7a9a5a7c74b4cb256
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 5083136 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 1413120 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 51.1 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 118 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 7036928 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 7056 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-08 21:14:43.343923
+Test Commit ID: 0e3758dea36b404c2b84de06eef010e6ed82ea20
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 2322432 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 40960 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 221184 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 1138688 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 50.8 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 78.3 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 2662400 bytes. The file does not match.
+-0	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+50/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-09 21:31:45.972612
+Test Commit ID: 33d62ddba7f411a3d38b13d6c0ff55848324c42c
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 7888896 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 40960 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 2424832 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 51.1 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 57.7 Mbps.)
+-10	Test Case 9: Competing with TCP failed: received file has 2764800 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 4112 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-11 18:06:12.498719
+Test Commit ID: 723a534fcc3881eef5e375ccf259ce6aca4bc260
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-0	Test Case 3: Sending 65MB succeeded! (Sent in 5.40368819236755 seconds.)
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 704512 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 598016 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 16047680 bytes.)
+-10	Test Case 7: TCP friendliness failed: TCP only got 2.73 Mbps (need at least 15.)
+-10	Test Case 8: TCP friendliness (with 1% loss) failed: TCP only got 6.87 Mbps (need at least 10.)
+-10	Test Case 9: Competing with TCP failed: received file has 26468928 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 7056 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+30/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-12 17:59:26.907344
+Test Commit ID: d81d4205ab627943fa2bb69addd7c773bee3dfc5
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-0	Test Case 3: Sending 65MB succeeded! (Sent in 14.2521460056305 seconds.)
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 929792 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 724992 of 1000000 bytes were written.
+-0	Test Case 6: Quick convergence succeeded!
+-10	Test Case 7: TCP friendliness failed: TCP only got 5.36 Mbps (need at least 15.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 39.5 Mbps.)
+-0	Test Case 9: Competing with TCP succeeded!
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 7056 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+60/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-12 22:00:09.759130
+Test Commit ID: 13a14bf1b84a365e6c4df5561be352c762ef40f4
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-0	Test Case 3: Sending 65MB succeeded! (Sent in 13.7481601238251 seconds.)
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 856064 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 720896 of 1000000 bytes were written.
+-0	Test Case 6: Quick convergence succeeded!
+-10	Test Case 7: TCP friendliness failed: TCP only got 4.81 Mbps (need at least 15.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 50.0 Mbps.)
+-0	Test Case 9: Competing with TCP succeeded!
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 5584 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+60/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-13 21:41:59.046747
+Test Commit ID: 98bc6137bec6b45b2bba893205318cb6abd1d157
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-0	Test Case 3: Sending 65MB succeeded! (Sent in 13.4271631240845 seconds.)
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 843776 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 724992 of 1000000 bytes were written.
+-0	Test Case 6: Quick convergence succeeded!
+-10	Test Case 7: TCP friendliness failed: TCP only got 5.81 Mbps (need at least 15.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 58.5 Mbps.)
+-10	Test Case 9: Program exceeded max allowed time.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 8528 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+50/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-14 22:31:02.525279
+Test Commit ID: c696cfe248608b3173679b2596d2256d0f619f6b
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Program exceeded max allowed time.
+-0	Test Case 4: Sending 1MB (with 5% loss) succeeded! (Sent 1MB in 3.83586287498474 seconds.)
+-0	Test Case 5: Sending 1MB (with 25% loss) succeeded! (Sent 1MB in 8.87731194496155 seconds.)
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 16674816 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 40.2 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 57.4 Mbps.)
+-10	Test Case 9: Competing with TCP failed: 22536192 of 65000000 bytes were written in 40 seconds.
+-0	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+70/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-15 21:49:55.315425
+Test Commit ID: f1fff747d5f5fe8992ec235a7e68de4796440cbf
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Program exceeded max allowed time.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 880640 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: your program sent 1MB in 10.1481649875641 seconds (should be less than 10s.)
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 17096704 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 39.1 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 42.5 Mbps.)
+-10	Test Case 9: Competing with TCP failed: 22536192 of 65000000 bytes were written in 40 seconds.
+-0	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+50/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-16 22:19:09.759314
+Test Commit ID: 4d2cbe4223927cbf455c6512262c1c655d19f3a7
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Program exceeded max allowed time.
+-0	Test Case 4: Sending 1MB (with 5% loss) succeeded! (Sent 1MB in 3.25625014305115 seconds.)
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: your program sent 1MB in 11.444671869278 seconds (should be less than 10s.)
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 17129472 bytes.)
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 40.1 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 46.4 Mbps.)
+-10	Test Case 9: Competing with TCP failed: 22577152 of 65000000 bytes were written in 40 seconds.
+-0	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+60/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-17 20:14:21.402246
+Test Commit ID: 1576b437e6c79961c4d1755f5d41657a22a9bf17
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: your program sent 65MB in 28.4762148857117 seconds (should take less than 20s.)
+-0	Test Case 4: Sending 1MB (with 5% loss) succeeded! (Sent 1MB in 1.72269296646118 seconds.)
+-0	Test Case 5: Sending 1MB (with 25% loss) succeeded! (Sent 1MB in 3.5810399055481 seconds.)
+-0	Test Case 6: Quick convergence succeeded!
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 36.1 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 62.0 Mbps.)
+-0	Test Case 9: Competing with TCP succeeded!
+-0	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) succeeded!
+-0	Late Penalty: Ignored.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-18 09:25:23.485674
+Test Commit ID: cd26faf5ec59177a6bbc97270ad0982f25460087
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: your program sent 65MB in 28.5120379924774 seconds (should take less than 20s.)
+-0	Test Case 4: Sending 1MB (with 5% loss) succeeded! (Sent 1MB in 1.69862985610962 seconds.)
+-0	Test Case 5: Sending 1MB (with 25% loss) succeeded! (Sent 1MB in 4.01445698738098 seconds.)
+-0	Test Case 6: Quick convergence succeeded!
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 36.1 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 47.3 Mbps.)
+-0	Test Case 9: Competing with TCP succeeded!
+-0	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-18 09:25:23.485674
+Test Commit ID: cd26faf5ec59177a6bbc97270ad0982f25460087
+Group Status: Group of 2
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: your program sent 65MB in 28.8484601974487 seconds (should take less than 20s.)
+-0	Test Case 4: Sending 1MB (with 5% loss) succeeded! (Sent 1MB in 1.5459451675415 seconds.)
+-0	Test Case 5: Sending 1MB (with 25% loss) succeeded! (Sent 1MB in 3.59998202323914 seconds.)
+-0	Test Case 6: Quick convergence succeeded!
+-0	Test Case 7: TCP friendliness succeeded! (TCP got 36.3 Mbps.)
+-0	Test Case 8: TCP friendliness (with 1% loss) succeeded! (TCP got 50.1 Mbps.)
+-0	Test Case 9: Competing with TCP succeeded!
+-0	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
