@@ -37,6 +37,7 @@ struct window_content_t
 	bool received;
 };
 
+
 void send_wrapper(packet_t &packet)
 {
 	if (!address_defined) return;
@@ -103,7 +104,7 @@ void send_seq_number(int input)
 {
 	struct timespec tv;
 	tv.tv_sec = 0;
-    tv.tv_nsec = 20 * 1000 * 1000 / 100; //RTT / 500
+    tv.tv_nsec = 20 * 1000 * 1000 / 500; //RTT / 500
 	while(!th_end)
 	{
 		if (expected_seq_num > 0)
